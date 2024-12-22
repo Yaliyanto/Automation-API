@@ -1,5 +1,0 @@
-Ignore all .pyc files
-*.pyc
-__pycache__/
-virtual/
-*/site-packages/
